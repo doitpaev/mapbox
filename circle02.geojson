@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16821842",
+        "mag": 2,
+        "time": 1504843966513,
+        "felt": null,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         74.75718,
+           41.25580,
+          7
+          ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ak16821829",
+        "mag": 1.5,
+        "time": 1504834613166,
+        "felt": null,
+        "tsunami": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.56348,
+          41.51805,
+          6.1
+        ]
+      }
+    }
+  ]
+}
